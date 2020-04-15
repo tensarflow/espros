@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "/home/ensar/.arduino15/packages/esp8266/tools/**",
+                "/home/ensar/.arduino15/packages/esp8266/hardware/esp8266/2.6.3/**",
+                "/home/ensar/arduino-1.8.10/tools/**",
+                "/home/ensar/arduino-1.8.10/hardware/arduino/avr/**",
+                "${workspaceFolder}/**",
+                "/opt/ros/melodic/**"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "clang-x64",
+            "forcedInclude": []
+        }
+    ],
+    "version": 4
+}
