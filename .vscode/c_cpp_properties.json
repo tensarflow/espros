@@ -8,7 +8,8 @@
                 "/home/ensar/arduino-1.8.10/tools/**",
                 "/home/ensar/arduino-1.8.10/hardware/arduino/avr/**",
                 "${workspaceFolder}/**",
-                "/opt/ros/melodic/**"
+                "/opt/ros/melodic/**",
+                "/home/ensar/.arduino15/packages/esp8266/hardware/esp8266/2.6.3/libraries/ESP8266WiFi/src"
             ],
             "defines": [],
             "compilerPath": "/usr/bin/gcc",
